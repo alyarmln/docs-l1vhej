@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-70awx6.abutogel4jkh.cfd/sitemap.xml
